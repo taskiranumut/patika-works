@@ -1,0 +1,63 @@
+.container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+.upper-div {
+  background-color: #eeeeee;
+  text-align: center;
+  margin: 0 2px;
+}
+
+.search-input {
+  width: 310px;
+}
+
+.bottom-div {
+  border: 1px solid white;
+}
+
+.left-div {
+  width: 36.7%;
+  height: 76px;
+  float: left;
+  border: 1px solid white;
+  padding: 1px;
+  background-color: #7ee5da;
+  vertical-align: middle;
+}
+
+.middle-div {
+  width: 19.3%;
+  height: 76px;
+  float: left;
+  border: 1px solid white;
+  padding: 1px;
+  background-color: #70ccc2;
+  line-height: 95%;
+}
+
+.right-div {
+  width: 43%;
+  height: 76px;
+  float: left;
+  border: 1px solid white;
+  padding: 1px;
+  background-color: #62b3aa;
+  line-height: 95%;
+}
+
+.align-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clear {
+  clear: both;
+}
+
+.mr-9 {
+  margin-right: 9px;
+}
